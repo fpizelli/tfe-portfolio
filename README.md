@@ -1,29 +1,18 @@
-# tfe-portfolio
+# tfe-portfolio  
+A mock portfolio built for a college assignment. That’s it.
 
-This template should help get you started developing with Vue 3 in Vite.
+## What's this?
+A fictional portfolio site with fake projects, placeholder blog posts, and a contact form. Just a Vue 3 learning project for a web development class. Basic setup. Built only with what was covered in class.
 
-## Recommended IDE Setup
+## Stack
+- Vue 3 (Composition API)  
+- Vue Router  
+- Tailwind CSS via CDN  
+- Vite
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Run it
+Clone the repo and:
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+```bash
+npm i    # Install dependencies
+npm run dev    # Start local dev server
